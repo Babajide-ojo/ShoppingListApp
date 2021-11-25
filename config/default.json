@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://Jide:1996@cluster0.kmsw4.mongodb.net/Shopping-list?retryWrites=true&w=majority",
+    "jwtSecret": "sl_myJwtScret"
+}
